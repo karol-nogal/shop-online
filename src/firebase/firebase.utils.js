@@ -23,7 +23,7 @@
 
       const spanShot =  await userRef.get()
 
-      console.log(spanShot)
+      
 
       if(!spanShot.exists){
           const {displayName, email} = userAuth;

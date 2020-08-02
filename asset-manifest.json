@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/shop-online/static/css/main.b3e4e1c6.chunk.css",
+    "main.js": "/shop-online/static/js/main.991d6b76.chunk.js",
+    "main.js.map": "/shop-online/static/js/main.991d6b76.chunk.js.map",
+    "runtime~main.js": "/shop-online/static/js/runtime~main.6758b294.js",
+    "runtime~main.js.map": "/shop-online/static/js/runtime~main.6758b294.js.map",
+    "static/js/2.e8745bd0.chunk.js": "/shop-online/static/js/2.e8745bd0.chunk.js",
+    "static/js/2.e8745bd0.chunk.js.map": "/shop-online/static/js/2.e8745bd0.chunk.js.map",
+    "index.html": "/shop-online/index.html",
+    "precache-manifest.db407fa532b0340354c26e0ba4b62949.js": "/shop-online/precache-manifest.db407fa532b0340354c26e0ba4b62949.js",
+    "service-worker.js": "/shop-online/service-worker.js",
+    "static/css/main.b3e4e1c6.chunk.css.map": "/shop-online/static/css/main.b3e4e1c6.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/shop-online/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/shop-online/static/media/shopping-bag.30f07071.svg"
+  }
+}

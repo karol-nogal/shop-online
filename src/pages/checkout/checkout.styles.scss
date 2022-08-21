@@ -29,3 +29,12 @@
     font-size: 36px;
   }
 }
+
+@media screen and (max-width:900px) {
+  .checkout-page{
+    width: 95%;
+  }
+  .checkout-header{
+    font-size: 13px
+  }
+}

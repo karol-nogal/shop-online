@@ -49,3 +49,11 @@
     margin-bottom: 24px;
   }
 }
+@media screen and (min-width:620px)and (max-width:890px) {
+  .custom-button{
+    padding: 0 10px;
+    min-width: 90px;
+
+  }
+  
+}

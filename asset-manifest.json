@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/shop-online/static/css/main.b3e4e1c6.chunk.css",
-    "main.js": "/shop-online/static/js/main.991d6b76.chunk.js",
-    "main.js.map": "/shop-online/static/js/main.991d6b76.chunk.js.map",
-    "runtime~main.js": "/shop-online/static/js/runtime~main.6758b294.js",
-    "runtime~main.js.map": "/shop-online/static/js/runtime~main.6758b294.js.map",
-    "static/js/2.e8745bd0.chunk.js": "/shop-online/static/js/2.e8745bd0.chunk.js",
-    "static/js/2.e8745bd0.chunk.js.map": "/shop-online/static/js/2.e8745bd0.chunk.js.map",
+    "main.css": "/shop-online/static/css/main.bc0151b9.css",
+    "main.js": "/shop-online/static/js/main.76fd17a3.js",
+    "static/media/shopping-bag.svg": "/shop-online/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/shop-online/static/media/crown.207ae289b221bfaca0108507f9bb2f85.svg",
     "index.html": "/shop-online/index.html",
-    "precache-manifest.db407fa532b0340354c26e0ba4b62949.js": "/shop-online/precache-manifest.db407fa532b0340354c26e0ba4b62949.js",
-    "service-worker.js": "/shop-online/service-worker.js",
-    "static/css/main.b3e4e1c6.chunk.css.map": "/shop-online/static/css/main.b3e4e1c6.chunk.css.map",
-    "static/media/crown.ed28accb.svg": "/shop-online/static/media/crown.ed28accb.svg",
-    "static/media/shopping-bag.30f07071.svg": "/shop-online/static/media/shopping-bag.30f07071.svg"
-  }
+    "main.bc0151b9.css.map": "/shop-online/static/css/main.bc0151b9.css.map",
+    "main.76fd17a3.js.map": "/shop-online/static/js/main.76fd17a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc0151b9.css",
+    "static/js/main.76fd17a3.js"
+  ]
 }
